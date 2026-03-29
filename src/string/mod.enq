@@ -1,0 +1,15 @@
+pub fn empty() -> str {
+    ret ""
+}
+
+pub fn newline() -> str {
+    ret "\n"
+}
+
+pub fn tab() -> str {
+    ret "\t"
+}
+
+pub fn space() -> str {
+    ret " "
+}
