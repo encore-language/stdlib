@@ -1,2 +1,1 @@
-# stdlib
-Encore stdlib
+# std
